@@ -8,7 +8,7 @@ css file for fav
 4. Save<br>
 5. Profit<br><br>
 
-##Chrome (trash emoji):#br>
+##Chrome (trash emoji):<br>
 1. Download [Stylish for chrome](https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en)<br>
 2. Figure out how to make a new blank style. I hate chrome so I'm not helping you lol<br>
 3. Copy whats in [this CSS file](star.css) into the new style<br>
