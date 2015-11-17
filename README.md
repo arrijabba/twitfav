@@ -2,10 +2,10 @@
 css file for fav
 
 Firefox:
-1. Download [Stylish](https://addons.mozilla.org/en-us/firefox/addon/stylish/)
-2. Hit Stylish button > Write new style... > Blank Style
-3. Copy whats in [this CSS file](star.css) into the new style
-4. Save
+1. Download [Stylish](https://addons.mozilla.org/en-us/firefox/addon/stylish/)<br>
+2. Hit Stylish button > Write new style... > Blank Style<br>
+3. Copy whats in [this CSS file](star.css) into the new style<br>
+4. Save<br>
 5. Profit
 
 Chrome (trash emoji:
