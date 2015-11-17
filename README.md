@@ -1,9 +1,16 @@
 # twitfav
 css file for fav
 
-1. This only works for firefox (chrome is trash and doesnt allow user styles natively)
-2. Hit Alt, if the "File | Edit | etc" menu isnt up
-3. Help > Troubleshoting Information > Under Application Basics, click "Show Folder" next to Profile Folder
-4. Make a new folder called "chrome" in this directory
-5. Put "userChrome.css" in there
-6. Profit
+Firefox:
+1. Download [Stylish](https://addons.mozilla.org/en-us/firefox/addon/stylish/)
+2. Hit Stylish button > Write new style... > Blank Style
+3. Copy whats in [this CSS file](star.css) into the new style
+4. Save
+5. Profit
+
+Chrome (trash emoji:
+1. Download [Stylish for chrome](https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en)
+2. Figure out how to make a new blank style. I hate chrome so I'm not helping you lol
+3. Copy whats in [this CSS file](star.css) into the new style
+4. Save
+5. Profit
